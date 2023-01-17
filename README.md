@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings to who I assume is a human...👋
 
 <!--
 **page-jerzak/page-jerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
